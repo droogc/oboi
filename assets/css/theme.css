@@ -2337,6 +2337,9 @@ input[type=checkbox] {
     max-height: 414px;
   }
 }
+.slide-img{
+    max-height: 340px;
+}
 .owl-carousel .owl-item {
   -webkit-transform: translateZ(0) scale(1, 1);
 }
@@ -2419,6 +2422,7 @@ input[type=checkbox] {
 }
 .partners-carousel .owl-carousel .owl-item img {
   width: auto;
+    max-height: 200px;
 }
 .partners-carousel .owl-theme .owl-controls {
   margin-top: 0;
